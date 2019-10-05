@@ -1,5 +1,5 @@
 # ionic-react-capacitor-facebook-login
-Facebook login example starter for Ionic React Capacitor apps
+Facebook login example starter for Ionic React Capacitor apps. Detailed blog here - [Facebook login in Ionic React Capacitor apps](https://enappd.com/blog/facebook-login-in-ionic-react-capacitor-apps/118)
 
 
 
