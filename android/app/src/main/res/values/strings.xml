@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FaceCapReact</string>
+    <string name="title_activity_main">FaceCapReact</string>
+    <string name="package_name">com.enappd.FaceCapReact</string>
+    <string name="fileprovider_authority">com.enappd.FaceCapReact.fileprovider</string>
+    <string name="custom_url_scheme">com.enappd.FaceCapReact</string>
+    <string name="facebook_app_id">408937656335090</string>
+    <string name="fb_login_protocol_scheme">fb408937656335090</string>
+</resources>

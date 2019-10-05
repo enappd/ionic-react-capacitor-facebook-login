@@ -1,0 +1,7 @@
+{
+  "appId": "com.enappd.FaceCapReact",
+  "appName": "FaceCapReact",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build"
+}
